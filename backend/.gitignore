@@ -1,0 +1,27 @@
+# Goのバイナリファイル
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Goの依存ファイル
+vendor/
+
+# OS関連ファイル
+.DS_Store
+Thumbs.db
+
+# IDE関連
+.vscode/
+.idea/
+
+# ビルド関連
+dist/
+build/
+
+# ログファイル
+*.log
+logs/
