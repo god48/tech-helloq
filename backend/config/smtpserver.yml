@@ -1,0 +1,7 @@
+smtp:
+  host: "smtp.gmail.com"
+  port: "587"
+  username: "kamitani99@gmail.com" # Gmailアカウント
+  password: "fpuzqxilnbgrxmeb"
+  from: "kamitani99@gmail.com"     # 送信者（運営者アドレス）
+  to: "kamitani99@gmail.com"       # 受信者（運営者アドレス）
